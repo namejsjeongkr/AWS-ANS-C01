@@ -18,4 +18,4 @@
 ---
 
 ### Passing Score
-750 (scale score : 100 - 1000)
+- 750 (scale score : 100 - 1000)
