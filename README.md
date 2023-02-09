@@ -24,9 +24,10 @@
 
 ### AWS Services and features that key tools, concepts and so on.
 #### Application Integration:
-Amazon EventBridge (Amazon CloudWatch Events)
-Amazon Simple Notification Service (Amazon SNS)
-Amazon Simple Queue Service (Amazon SQS)
+- Amazon EventBridge (Amazon CloudWatch Events)
+- Amazon Simple Notification Service (Amazon SNS)
+- Amazon Simple Queue Service (Amazon SQS)
+
 
 #### Compute:
 Amazon EC2
