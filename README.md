@@ -41,11 +41,14 @@
 - Amazon Elastic Kubernetes Service (Amazon EKS)
 - AWS Fargate
 
+
 #### Cost Management:
 - AWS Cost Explorer
 
+
 #### Front-end web and mobile:
 - Amazon API Gateway
+
 
 #### Management and governance:
 - AWS Auto Scaling
