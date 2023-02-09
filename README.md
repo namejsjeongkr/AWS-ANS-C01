@@ -1,4 +1,4 @@
-# Let's get ready to pass Certified Advanced Networking Specialty - C01
+## Let's get ready to pass Certified Advanced Networking Specialty - C01
 
 ---
 
