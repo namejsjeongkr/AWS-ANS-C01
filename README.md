@@ -2,6 +2,12 @@
 
 ---
 
+### Schedule
+- 09:30am ~ 11:00am (90 Mins) on Thursdays
+- with 권수님 (@GwonsooLee)
+
+---
+
 ### Recommended AWS knowledge
 - AWS networking nuances and how they relate to the integration of AWS services
 - AWS security best practices
