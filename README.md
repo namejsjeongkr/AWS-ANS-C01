@@ -4,7 +4,7 @@
 
 ### Schedule
 - 09:30am ~ 11:00am (90 Mins) on Thursdays
-- with 권수님 (@GwonsooLee)
+- with 권수님 (@GwonsooLee), 연주님 (@jess-yon), 영진님(@YoungJinJung)
 
 ---
 
